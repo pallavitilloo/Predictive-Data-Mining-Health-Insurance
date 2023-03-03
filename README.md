@@ -1,6 +1,6 @@
 # Data-Mining-Health-Insurance
 
-Descriptive Data Mining for Health Insurance data
+Predictive Data Mining for Health Insurance data
 
 [Health Insurance Dataset](https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction)
 
